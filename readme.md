@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Shoe Website)**
+- 🔭 I’m currently working on **[Shoe Website]**
 
 - 🌱 I’m currently learning **HTML,CSS,JS.**
 

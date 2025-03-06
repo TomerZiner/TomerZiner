@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **[Some Projects]**
 
-- 🌱 I’m currently learning **HTML,CSS,JS.**
+- 🌱 I’m currently learning **HTML,CSS,JS,TS,REACT.**
 
 - 📫 How to reach me **tomerziner11@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **i Love To make A new E-COM WEBSITES**
 
-- 💬 My  Age is **16**
+- 💬 My  Age is **19**
   
 
 ## 🚀 Languages and Tools:
